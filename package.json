@@ -1,0 +1,22 @@
+{
+  "name": "minicurso-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.1",
+    "nodemon": "^3.1.0",
+    "npm": "^10.5.1"
+  }
+}
